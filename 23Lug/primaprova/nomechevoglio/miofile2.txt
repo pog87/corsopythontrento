@@ -1,0 +1,11 @@
+"Davide Poggiali" 
+ Il volume nell'unit… C non ha etichetta.
+ Numero di serie del volume: 84EC-DF1F
+
+ Directory di C:\Users\data18_001\nuovacartella\altracartella\nomechevoglio
+
+23/07/2018  16:50    <DIR>          .
+23/07/2018  16:50    <DIR>          ..
+23/07/2018  16:50                20 miofile.txt
+               1 File             20 byte
+               2 Directory  28.331.429.888 byte disponibili

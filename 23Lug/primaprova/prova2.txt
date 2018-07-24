@@ -1,0 +1,22 @@
+ Il volume nell'unit… C non ha etichetta.
+ Numero di serie del volume: 84EC-DF1F
+
+ Directory di C:\Users\data18_001\nuovacartella\altracartella
+
+23/07/2018  16:38    <DIR>          .
+23/07/2018  16:38    <DIR>          ..
+23/07/2018  16:37                47 prova.txt
+23/07/2018  16:39                 0 prova2.txt
+               2 File             47 byte
+               2 Directory  28.331.622.400 byte disponibili
+ Il volume nell'unit… C non ha etichetta.
+ Numero di serie del volume: 84EC-DF1F
+
+ Directory di C:\Users\data18_001\nuovacartella\altracartella
+
+23/07/2018  16:38    <DIR>          .
+23/07/2018  16:38    <DIR>          ..
+23/07/2018  16:37                47 prova.txt
+23/07/2018  16:39               428 prova2.txt
+               2 File            475 byte
+               2 Directory  28.331.618.304 byte disponibili
