@@ -1,5 +1,6 @@
 Notebook e script per il corso di python per (aspiranti) data scientists.
 
+--------
 
 Comandi utili
 --------
@@ -38,7 +39,6 @@ jupyter-nbconvert --to python *.ipynb
 Programma svolto
 --------
 
---------
 
 
 23/07
