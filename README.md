@@ -78,6 +78,7 @@ Condizioni e cicli (for, if, while e varianti). Calcolo della somma dei primi n 
 
 26/07
 --------
+Cenni di programmazione funzionale, cicli e condizioni per definire liste.
 Esecizi su liste, tuple, insiemi e dizionari usando condizioni e cicli.
 
 Introduzione alla libreria numpy.
