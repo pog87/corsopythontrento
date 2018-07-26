@@ -3,29 +3,29 @@ Notebook e script per il corso di python per (aspiranti) data scientists.
 
 Comandi utili
 --------
-* visualizzare i file contenuti nella cartella corrente
-`dir` o `ls` in terminal unix
+* visualizzare i file contenuti nella cartella corrente:
+`dir` (oppure `ls` in terminal unix)
 
-* entrare in una sottocartella della cartella corrente
+* entrare in una sottocartella della cartella corrente:
 `cd nomecartella`
 
-* entrare nella cartella di livello superiore
+* entrare nella cartella di livello superiore:
 `cd ..`
 
-* lanciare uno script python
+* lanciare uno script python:
 ```bash
 python nomescript.py
 ```
 
-* lanciare jupyter
+* lanciare jupyter:
 ```bash
 jupyter-notebook
 ```
 
-* chiudere jupyter
-CTRL-C sulla shell in cui è stato lanciato
+* chiudere jupyter:
+combinazione di tasti CTRL-C sulla shell in cui è stato lanciato
 
-* convertire tutti i notebook della cartella corrente in python script
+* convertire tutti i notebook della cartella corrente in python script:
 ```bash
 jupyter-nbconvert --to python *.ipynb
 ```
