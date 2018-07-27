@@ -1,5 +1,6 @@
 Benvenuti!
-per prima cosa usiamo il terminale (Anaconda Prompt, ad esempio) per creare una cartella ed entriarci dentro
+
+Per prima cosa usiamo il terminale (Anaconda Prompt, ad esempio) per creare una cartella ed entrarci dentro
 
 ```bash
 mkdir primaprova
