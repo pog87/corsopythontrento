@@ -81,6 +81,15 @@ Condizioni e cicli (for, if, while e varianti). Calcolo della somma dei primi n 
 Cenni di programmazione funzionale, cicli e condizioni per definire liste.
 Esecizi su liste, tuple, insiemi e dizionari usando condizioni e cicli.
 
-Introduzione alla libreria numpy.
+Introduzione alla libreria numpy. Algebra lineare: trasposta, prodotto matriciale, soluzione di sistemi lineari.
+
+--------
+
+27/07
+--------
+Uso della libreria numpy per evitare cicli `for/if`.
+Introduzione alla libreria pandas. Creare un DataFrame da dizionario, aggiungere colonne, trasposta, importare ed esportare da excel.
+
+**Assignment**: Problema real-life su normalizzazioni di test neuropsicologici a partire da un articolo scientifico.
 
 --------
