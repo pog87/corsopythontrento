@@ -93,3 +93,9 @@ Introduzione alla libreria pandas. Creare un DataFrame da dizionario, aggiungere
 **Assignment**: Problema real-life su normalizzazioni di test neuropsicologici a partire da un articolo scientifico.
 
 --------
+
+30/07
+--------
+Esercizi di riepilogo su liste, tuple, dizionari, cicli, condizioni.
+
+--------
